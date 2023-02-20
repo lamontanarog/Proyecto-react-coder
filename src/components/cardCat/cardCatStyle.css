@@ -1,0 +1,14 @@
+.cardStyle{
+display: flex;
+justify-content: space-around;
+}
+
+.buttonCard{
+    width: auto;
+  display: block;
+  margin: auto;
+}
+
+.titleCard{
+    text-align: center;
+}
