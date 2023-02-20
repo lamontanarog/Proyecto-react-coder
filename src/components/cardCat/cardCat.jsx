@@ -14,7 +14,7 @@ function CardsCat() {
         <Card.Title className='titleCard'>AFRODITA WHITE</Card.Title>
         <Card.Text>El Afrodita White Oro Blanco Paladio es un anillo de oro 18 kilates con una piedra Cubic Swarovski color azul.
         </Card.Text>
-        <Button className='buttonCard' variant="primary">Go somewhere</Button>
+        <Button className='buttonCard' variant="info">Agregar al carrito</Button>
       </Card.Body>
     </Card>
     <Card  style={{ width: '20rem' }}>
@@ -23,7 +23,7 @@ function CardsCat() {
         <Card.Title className='titleCard' >ACUARIO STONE ROSE</Card.Title>
         <Card.Text>Aros de Oro rosa 18k inspirados en la constelación Acuario con Cubic Swarovski.
         </Card.Text>
-        <Button className='buttonCard' variant="primary">Go somewhere</Button>
+        <Button className='buttonCard' variant="info">Agregar al carrito</Button>
       </Card.Body>
     </Card>
     <Card  style={{ width: '20rem' }}>
@@ -32,7 +32,7 @@ function CardsCat() {
         <Card.Title className='titleCard' >LOVE</Card.Title>
         <Card.Text>El Love es un dije de plata 925 con un cristal Swarovski.
         </Card.Text>
-        <Button className='buttonCard' variant="primary">Go somewhere</Button>
+        <Button className='buttonCard' variant="info">Agregar al carrito</Button>
       </Card.Body>
     </Card>
     </div>

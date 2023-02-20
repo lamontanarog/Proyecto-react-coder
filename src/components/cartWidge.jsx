@@ -3,8 +3,8 @@ import Button from 'react-bootstrap/Button';
 
 function Carrito() {
   return (
-    <Button variant="primary">
-      Carrito <Badge bg="secondary">9</Badge>
+    <Button variant="info">
+      Carrito <Badge bg="dark">9</Badge>
     </Button>
   );
 }
